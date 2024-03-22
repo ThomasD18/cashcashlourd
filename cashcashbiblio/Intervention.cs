@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace cashcashbiblio
 {
-    public class Class1
+    public class Intervention
     {
+        private int Num_intervention;
     }
 }
